@@ -1,0 +1,13 @@
+[project]
+name = "sql"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipython-sql>=0.5.0",
+    "prettytable==3.7.0",
+    "psycopg2>=2.9.10",
+    "pyyaml>=6.0.2",
+]
