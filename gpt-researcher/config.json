@@ -1,0 +1,13 @@
+{
+    "EMBEDDING": "openai:bge-base-zh-v1.5",
+    "FAST_LLM": "openai:DeepSeek-R1",
+    "SMART_LLM": "openai:DeepSeek-R1",
+    "STRATEGIC_LLM": "openai:DeepSeek-R1",
+    "LANGUAGE": "chinese",
+    "REPORT_SOURCE": "web",
+    "DOC_PATH": "./my-docs",
+    "EMBEDDING_KWARGS": {
+        "tiktoken_enabled": false,
+        "tiktoken_model_name": "D:/AppData/models/BAAI/bge-large-zh-v1.5"
+    }
+}
